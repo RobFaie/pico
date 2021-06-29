@@ -1,0 +1,3 @@
+[submodule "pico-project-generator"]
+	path = pico-project-generator
+	url = https://github.com/raspberrypi/pico-project-generator.git
